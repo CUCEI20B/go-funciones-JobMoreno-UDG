@@ -1,6 +1,5 @@
 package main
 
-import "fmt"
 func Burbuja(ListaDesordenada []int64) {
  var auxiliar int64
  for i := 0; i < len(ListaDesordenada); i++ {
